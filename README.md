@@ -40,7 +40,8 @@ Your final submission should include:
   * 4-10 Total "Phenomenon" Visualizations 
   * 2 Dashboards
   * 1 City Official Map
-  * 1 Story 
+  * 1 Story - 
+  https://public.tableau.com/profile/nicole1707#!/vizhome/TableauHomework-CitiBikeAnalytics_15843033934870/CitiBikeRidership
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
 ## Assessment
